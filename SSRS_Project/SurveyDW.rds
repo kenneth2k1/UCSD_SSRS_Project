@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" Name="SurveyDW">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=si-sql.ucsd.edu,62247;Initial Catalog=SysSurvey</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>42d0a6bd-589f-472d-bce4-077f0b936eea</DataSourceID>
+</RptDataSource>

@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kvillalpando\\source\\repos\\SSRS_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F723502-B4BA-1F29-1DA2-A7576BF8BEDA}|SSRS_Project\\SSRS_Project.rptproj|C:\\Users\\kvillalpando\\source\\repos\\SSRS_Project\\SSRS_Project\\Response - Status Counts Overall.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{7F723502-B4BA-1F29-1DA2-A7576BF8BEDA}|SSRS_Project\\SSRS_Project.rptproj|solutionrelative:SSRS_Project\\Response - Status Counts Overall.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Response - Status Counts Overall.rdl [Design]",
+              "DocumentMoniker": "C:\\Users\\kvillalpando\\source\\repos\\SSRS_Project\\SSRS_Project\\Response - Status Counts Overall.rdl",
+              "RelativeDocumentMoniker": "SSRS_Project\\Response - Status Counts Overall.rdl",
+              "ToolTip": "C:\\Users\\kvillalpando\\source\\repos\\SSRS_Project\\SSRS_Project\\Response - Status Counts Overall.rdl [Design]",
+              "RelativeToolTip": "SSRS_Project\\Response - Status Counts Overall.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-05-08T21:21:23.912Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

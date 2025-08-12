@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Repos\\SSRS_Project\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F723502-B4BA-1F29-1DA2-A7576BF8BEDA}|SSRS_Project\\SSRS_Project.rptproj|C:\\Repos\\SSRS_Project\\SSRS_Project\\SAWRecognitions.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}",
+      "RelativeMoniker": "D:0:0:{7F723502-B4BA-1F29-1DA2-A7576BF8BEDA}|SSRS_Project\\SSRS_Project.rptproj|solutionrelative:SSRS_Project\\SAWRecognitions.rdl||{420F4200-DD61-4785-81F3-52669CBC208E}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SAWRecognitions.rdl [Design]",
+              "DocumentMoniker": "C:\\Repos\\SSRS_Project\\SSRS_Project\\SAWRecognitions.rdl",
+              "RelativeDocumentMoniker": "SSRS_Project\\SAWRecognitions.rdl",
+              "ToolTip": "C:\\Repos\\SSRS_Project\\SSRS_Project\\SAWRecognitions.rdl [Design]",
+              "RelativeToolTip": "SSRS_Project\\SAWRecognitions.rdl [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-06-27T16:41:53.348Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
